@@ -83,7 +83,6 @@ This script will display the pressed keys and their values in real-time as you i
 ### Demonstration Video:
 For a visual demonstration of the controller in action with the Raspberry Pi, check out the video below:
 
-[youtubeDemo](https://www.youtube.com/watch?v=Wd4GzTP3SEE) 
 https://www.youtube.com/watch?v=Wd4GzTP3SEE
 
 This setup not only showcases how to integrate a gaming controller with the Raspberry Pi but also provides a robust foundation for developing more complex control schemes in your projects, such as remote-controlled vehicles or interactive robots.
